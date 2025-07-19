@@ -11,7 +11,7 @@ An interactive, web-based tool designed to bring sorting algorithms to life. Thi
 
 ## 🚀 Live Demo
 
-**[Check out the live version here!](https://your-github-username.github.io/your-repo-name/)**
+**[Check out the live version here!](https://sorting-algo-visualizer-2.netlify.app/)**
 
 <!-- Replace the link above with your own once you deploy it on GitHub Pages or another service. -->
 
